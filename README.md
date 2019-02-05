@@ -2,7 +2,7 @@
 
 Project for college.
 
-To use it, you need a Java IDE like Eclipse, and then you run Field.java.
+To use it, download the repo, make sure you have Java installed, and double-click mother3sprites_runnable.jar
 
 Clicking on a character changes the sprite and position, different characters move more. 
 
