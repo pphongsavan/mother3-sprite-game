@@ -20,6 +20,12 @@ public class Field extends Canvas implements MouseListener, ImageObserver{
 
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 3466577627166360649L;
+
+
+	/**
 	 * The imported sprite sheet, m3sprites2.png, which makes use of ExtractSheet.java's
 	 * various methods in order to create several subimages
 	 */
